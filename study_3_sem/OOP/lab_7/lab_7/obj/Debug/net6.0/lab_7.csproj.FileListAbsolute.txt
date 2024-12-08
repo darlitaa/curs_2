@@ -1,0 +1,17 @@
+D:\study(3sem)\OOP\lab\lab_7\lab_7\bin\Debug\net6.0\lab_7.exe
+D:\study(3sem)\OOP\lab\lab_7\lab_7\bin\Debug\net6.0\lab_7.deps.json
+D:\study(3sem)\OOP\lab\lab_7\lab_7\bin\Debug\net6.0\lab_7.runtimeconfig.json
+D:\study(3sem)\OOP\lab\lab_7\lab_7\bin\Debug\net6.0\lab_7.dll
+D:\study(3sem)\OOP\lab\lab_7\lab_7\bin\Debug\net6.0\lab_7.pdb
+D:\study(3sem)\OOP\lab\lab_7\lab_7\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\study(3sem)\OOP\lab\lab_7\lab_7\obj\Debug\net6.0\lab_7.csproj.AssemblyReference.cache
+D:\study(3sem)\OOP\lab\lab_7\lab_7\obj\Debug\net6.0\lab_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\study(3sem)\OOP\lab\lab_7\lab_7\obj\Debug\net6.0\lab_7.AssemblyInfoInputs.cache
+D:\study(3sem)\OOP\lab\lab_7\lab_7\obj\Debug\net6.0\lab_7.AssemblyInfo.cs
+D:\study(3sem)\OOP\lab\lab_7\lab_7\obj\Debug\net6.0\lab_7.csproj.CoreCompileInputs.cache
+D:\study(3sem)\OOP\lab\lab_7\lab_7\obj\Debug\net6.0\lab_7.csproj.CopyComplete
+D:\study(3sem)\OOP\lab\lab_7\lab_7\obj\Debug\net6.0\lab_7.dll
+D:\study(3sem)\OOP\lab\lab_7\lab_7\obj\Debug\net6.0\refint\lab_7.dll
+D:\study(3sem)\OOP\lab\lab_7\lab_7\obj\Debug\net6.0\lab_7.pdb
+D:\study(3sem)\OOP\lab\lab_7\lab_7\obj\Debug\net6.0\lab_7.genruntimeconfig.cache
+D:\study(3sem)\OOP\lab\lab_7\lab_7\obj\Debug\net6.0\ref\lab_7.dll
