@@ -1,0 +1,40 @@
+﻿Сборка начата 13.11.2024 18:22:27.
+Уровень детализации журнала: Normal.     1>Проект "D:\study(3sem)\KPO\lab\lab_17\SELab17\SELab17\SELab17.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\SELab17.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\SELab17.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt SELab17.cpp
+         SELab17.cpp
+     1>D:\study(3sem)\KPO\lab\lab_17\SELab17\SELab17\IT.h(11,1): warning C4005: PARM_ID: изменение макроопределения
+       D:\study(3sem)\KPO\lab\lab_17\SELab17\SELab17\IT.h(10,1): message : см. предыдущее определение "PARM_ID"
+     1>D:\study(3sem)\KPO\lab\lab_17\SELab17\SELab17\SELab17.cpp(22,5): warning C4102: Log: неиспользованная метка
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\study(3sem)\KPO\lab\lab_17\SELab17\Debug\SELab17.exe" /INCREMENTAL /ILK:"Debug\SELab17.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\study(3sem)\KPO\lab\lab_17\SELab17\Debug\SELab17.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\study(3sem)\KPO\lab\lab_17\SELab17\Debug\SELab17.lib" /MACHINE:X86 Debug\Error.obj
+         Debug\FST.obj
+         Debug\In.obj
+         Debug\IT.obj
+         Debug\LexAnalysis.obj
+         Debug\Log.obj
+         Debug\LT.obj
+         Debug\Out.obj
+         Debug\Parm.obj
+         Debug\SELab17.obj
+         Debug\stdafx.obj
+         SELab17.vcxproj -> D:\study(3sem)\KPO\lab\lab_17\SELab17\Debug\SELab17.exe
+       FinalizeBuildStatus:
+         Файл "Debug\SELab17.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SELab17.tlog\SELab17.lastbuildstate".
+     1>Сборка проекта "D:\study(3sem)\KPO\lab\lab_17\SELab17\SELab17\SELab17.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\study(3sem)\KPO\lab\lab_17\SELab17\SELab17\SELab17.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\study(3sem)\KPO\lab\lab_17\SELab17\SELab17\IT.h(11,1): warning C4005: PARM_ID: изменение макроопределения
+         D:\study(3sem)\KPO\lab\lab_17\SELab17\SELab17\SELab17.cpp(22,5): warning C4102: Log: неиспользованная метка
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:01.27

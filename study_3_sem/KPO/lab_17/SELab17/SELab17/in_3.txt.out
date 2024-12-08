@@ -1,0 +1,1 @@
+integer function function fi()|{|return 0|}||main|{|declare integer x = 123;|};Ошибка 90: Лексический анализатор: идентификатор не распознан строка 1, позиция: 25

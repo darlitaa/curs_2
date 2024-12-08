@@ -1,0 +1,9 @@
+integer function function fi()
+{
+return 0
+}
+
+main
+{
+declare integer x = 123;
+};
