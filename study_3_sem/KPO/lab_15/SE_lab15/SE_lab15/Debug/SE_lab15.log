@@ -1,0 +1,37 @@
+﻿Сборка начата 15.10.2024 14:21:19.
+Уровень детализации журнала: Normal.     1>Проект "D:\study(3sem)\KPO\lab\lab_15\SE_lab15\SE_lab15\SE_lab15.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "D:\study(3sem)\KPO\lab\lab_15\SE_lab15\Debug\".
+         Создание каталога "Debug\SE_lab15.tlog\".
+       InitializeBuildStatus:
+         Создание "Debug\SE_lab15.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\SE_lab15.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Error.cpp In.cpp Log.cpp Out.cpp Parm.cpp SE_lab15.cpp stdafx.cpp
+         Error.cpp
+         In.cpp
+         Log.cpp
+         Out.cpp
+         Parm.cpp
+         SE_lab15.cpp
+         stdafx.cpp
+         Создание кода...
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\study(3sem)\KPO\lab\lab_15\SE_lab15\Debug\SE_lab15.exe" /INCREMENTAL /ILK:"Debug\SE_lab15.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\study(3sem)\KPO\lab\lab_15\SE_lab15\Debug\SE_lab15.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\study(3sem)\KPO\lab\lab_15\SE_lab15\Debug\SE_lab15.lib" /MACHINE:X86 Debug\Error.obj
+         Debug\In.obj
+         Debug\Log.obj
+         Debug\Out.obj
+         Debug\Parm.obj
+         Debug\SE_lab15.obj
+         Debug\stdafx.obj
+         SE_lab15.vcxproj -> D:\study(3sem)\KPO\lab\lab_15\SE_lab15\Debug\SE_lab15.exe
+       FinalizeBuildStatus:
+         Файл "Debug\SE_lab15.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_lab15.tlog\SE_lab15.lastbuildstate".
+     1>Сборка проекта "D:\study(3sem)\KPO\lab\lab_15\SE_lab15\SE_lab15\SE_lab15.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:03.26
