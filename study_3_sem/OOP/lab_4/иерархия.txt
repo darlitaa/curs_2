@@ -1,0 +1,16 @@
+﻿  
+-------------------------
+product(продукт)
+
+        sweet(конд изд)
+               candy (конфета)
+               cake (торт)
+
+        thing(товар)
+               watch(часы)
+               flowers(цветы)
+-------------------------
+
+product is abstract class 
+cake is seald class
+sweet has virtual method
