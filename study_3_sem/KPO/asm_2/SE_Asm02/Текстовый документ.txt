@@ -1,1 +1,0 @@
-ml asm02.asm /link /SUBSYSTEM:WINDOWS
