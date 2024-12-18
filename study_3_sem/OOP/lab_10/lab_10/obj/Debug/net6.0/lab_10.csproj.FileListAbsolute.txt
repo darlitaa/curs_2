@@ -1,0 +1,14 @@
+D:\course_2\study(3sem)\OOP\lab\lab_10\lab_10\bin\Debug\net6.0\lab_10.exe
+D:\course_2\study(3sem)\OOP\lab\lab_10\lab_10\bin\Debug\net6.0\lab_10.deps.json
+D:\course_2\study(3sem)\OOP\lab\lab_10\lab_10\bin\Debug\net6.0\lab_10.runtimeconfig.json
+D:\course_2\study(3sem)\OOP\lab\lab_10\lab_10\bin\Debug\net6.0\lab_10.dll
+D:\course_2\study(3sem)\OOP\lab\lab_10\lab_10\bin\Debug\net6.0\lab_10.pdb
+D:\course_2\study(3sem)\OOP\lab\lab_10\lab_10\obj\Debug\net6.0\lab_10.GeneratedMSBuildEditorConfig.editorconfig
+D:\course_2\study(3sem)\OOP\lab\lab_10\lab_10\obj\Debug\net6.0\lab_10.AssemblyInfoInputs.cache
+D:\course_2\study(3sem)\OOP\lab\lab_10\lab_10\obj\Debug\net6.0\lab_10.AssemblyInfo.cs
+D:\course_2\study(3sem)\OOP\lab\lab_10\lab_10\obj\Debug\net6.0\lab_10.csproj.CoreCompileInputs.cache
+D:\course_2\study(3sem)\OOP\lab\lab_10\lab_10\obj\Debug\net6.0\lab_10.dll
+D:\course_2\study(3sem)\OOP\lab\lab_10\lab_10\obj\Debug\net6.0\refint\lab_10.dll
+D:\course_2\study(3sem)\OOP\lab\lab_10\lab_10\obj\Debug\net6.0\lab_10.pdb
+D:\course_2\study(3sem)\OOP\lab\lab_10\lab_10\obj\Debug\net6.0\lab_10.genruntimeconfig.cache
+D:\course_2\study(3sem)\OOP\lab\lab_10\lab_10\obj\Debug\net6.0\ref\lab_10.dll
