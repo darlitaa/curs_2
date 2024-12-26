@@ -1,0 +1,17 @@
+D:\course_2\study(3sem)\OOP\lab\lab_13\lab_13\bin\Debug\net6.0\lab_13.exe
+D:\course_2\study(3sem)\OOP\lab\lab_13\lab_13\bin\Debug\net6.0\lab_13.deps.json
+D:\course_2\study(3sem)\OOP\lab\lab_13\lab_13\bin\Debug\net6.0\lab_13.runtimeconfig.json
+D:\course_2\study(3sem)\OOP\lab\lab_13\lab_13\bin\Debug\net6.0\lab_13.dll
+D:\course_2\study(3sem)\OOP\lab\lab_13\lab_13\bin\Debug\net6.0\lab_13.pdb
+D:\course_2\study(3sem)\OOP\lab\lab_13\lab_13\obj\Debug\net6.0\lab_13.GeneratedMSBuildEditorConfig.editorconfig
+D:\course_2\study(3sem)\OOP\lab\lab_13\lab_13\obj\Debug\net6.0\lab_13.AssemblyInfoInputs.cache
+D:\course_2\study(3sem)\OOP\lab\lab_13\lab_13\obj\Debug\net6.0\lab_13.AssemblyInfo.cs
+D:\course_2\study(3sem)\OOP\lab\lab_13\lab_13\obj\Debug\net6.0\lab_13.csproj.CoreCompileInputs.cache
+D:\course_2\study(3sem)\OOP\lab\lab_13\lab_13\obj\Debug\net6.0\lab_13.dll
+D:\course_2\study(3sem)\OOP\lab\lab_13\lab_13\obj\Debug\net6.0\refint\lab_13.dll
+D:\course_2\study(3sem)\OOP\lab\lab_13\lab_13\obj\Debug\net6.0\lab_13.pdb
+D:\course_2\study(3sem)\OOP\lab\lab_13\lab_13\obj\Debug\net6.0\lab_13.genruntimeconfig.cache
+D:\course_2\study(3sem)\OOP\lab\lab_13\lab_13\obj\Debug\net6.0\ref\lab_13.dll
+D:\course_2\study(3sem)\OOP\lab\lab_13\lab_13\bin\Debug\net6.0\SoapFormatter.dll
+D:\course_2\study(3sem)\OOP\lab\lab_13\lab_13\obj\Debug\net6.0\lab_13.csproj.AssemblyReference.cache
+D:\course_2\study(3sem)\OOP\lab\lab_13\lab_13\obj\Debug\net6.0\lab_13.csproj.CopyComplete
