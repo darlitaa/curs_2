@@ -1,0 +1,21 @@
+﻿Сборка начата 02.01.2025 13:52:55.
+Уровень детализации журнала: Normal.     1>Проект "D:\course_2\study(3sem)\KPO\lab\lab_19\SE_asm01\SE_asm01b\SE_asm01b.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\SE_asm01b.tlog\unsuccessfulbuild".
+       _MASM:
+         Assembling SE_asm01b.asm...
+         cmd.exe /C "C:\Users\Dashka Poop\AppData\Local\Temp\tmpa78c58534a614d49ba4f7c014ec30922.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\SE_asm01b.obj" /W3 /errorReport:prompt  /TaSE_asm01b.asm
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\course_2\study(3sem)\KPO\lab\lab_19\SE_asm01\Debug\SE_asm01b.exe" /INCREMENTAL /ILK:"Debug\SE_asm01b.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\course_2\study(3sem)\KPO\lab\lab_19\SE_asm01\Debug\SE_asm01b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\course_2\study(3sem)\KPO\lab\lab_19\SE_asm01\Debug\SE_asm01b.lib" /MACHINE:X86 Debug\SE_asm01b.obj
+         SE_asm01b.vcxproj -> D:\course_2\study(3sem)\KPO\lab\lab_19\SE_asm01\Debug\SE_asm01b.exe
+       FinalizeBuildStatus:
+         Файл "Debug\SE_asm01b.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_asm01b.tlog\SE_asm01b.lastbuildstate".
+     1>Сборка проекта "D:\course_2\study(3sem)\KPO\lab\lab_19\SE_asm01\SE_asm01b\SE_asm01b.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.90

@@ -1,0 +1,20 @@
+﻿Сборка начата 02.01.2025 13:52:32.
+Уровень детализации журнала: Normal.     1>Проект "D:\course_2\study(3sem)\KPO\lab\lab_19\SE_asm01\SE_asm01a\SE_asm01a.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\SE_asm01a.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\SE_asm01a.tlog\unsuccessfulbuild".
+       _MASM:
+       Целевой объект "_MASM" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       Lib:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\Lib.exe /OUT:"D:\course_2\study(3sem)\KPO\lab\lab_19\SE_asm01\Debug\SE_asm01a.lib" /NOLOGO /MACHINE:X86 Debug\SE_asm01a.obj
+         SE_asm01a.vcxproj -> D:\course_2\study(3sem)\KPO\lab\lab_19\SE_asm01\Debug\SE_asm01a.lib
+       FinalizeBuildStatus:
+         Файл "Debug\SE_asm01a.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_asm01a.tlog\SE_asm01a.lastbuildstate".
+     1>Сборка проекта "D:\course_2\study(3sem)\KPO\lab\lab_19\SE_asm01\SE_asm01a\SE_asm01a.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.22
