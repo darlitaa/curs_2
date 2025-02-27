@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPA002_1", "ASPA002_1\ASPA002_1.csproj", "{5B544468-A651-44A0-A866-6259F4FD2F43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPA002_2", "ASPA002_2\ASPA002_2.csproj", "{F672EA93-C559-4322-83BD-B79F346D0054}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPA002_3", "ASPA002_3\ASPA002_3.csproj", "{F70F8DE8-B8C3-4A7C-B3BD-1F067358FE86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B544468-A651-44A0-A866-6259F4FD2F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B544468-A651-44A0-A866-6259F4FD2F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B544468-A651-44A0-A866-6259F4FD2F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B544468-A651-44A0-A866-6259F4FD2F43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F672EA93-C559-4322-83BD-B79F346D0054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F672EA93-C559-4322-83BD-B79F346D0054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F672EA93-C559-4322-83BD-B79F346D0054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F672EA93-C559-4322-83BD-B79F346D0054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F70F8DE8-B8C3-4A7C-B3BD-1F067358FE86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F70F8DE8-B8C3-4A7C-B3BD-1F067358FE86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F70F8DE8-B8C3-4A7C-B3BD-1F067358FE86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F70F8DE8-B8C3-4A7C-B3BD-1F067358FE86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09B84EBC-AEB2-4325-8286-5800D34DE2B6}
+	EndGlobalSection
+EndGlobal

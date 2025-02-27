@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\curs_2\\study_4_sem\\ТПвИ\\lab\\lab02\\ASPA\\ASPA002_2\\wwwroot\\Neumann.html",
+      "PackagePath": "staticwebassets\\Neumann.html"
+    },
+    {
+      "Id": "D:\\curs_2\\study_4_sem\\ТПвИ\\lab\\lab02\\ASPA\\ASPA002_2\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "D:\\curs_2\\study_4_sem\\ТПвИ\\lab\\lab02\\ASPA\\ASPA002_2\\wwwroot\\js\\Cals.js",
+      "PackagePath": "staticwebassets\\js\\Cals.js"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.ASPA002_2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.ASPA002_2.props",
+      "PackagePath": "build\\ASPA002_2.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ASPA002_2.props",
+      "PackagePath": "buildMultiTargeting\\ASPA002_2.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.ASPA002_2.props",
+      "PackagePath": "buildTransitive\\ASPA002_2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
