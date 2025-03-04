@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "NF+UvC6Uf/MlvnhBl5pVvM07kiKguzfGqvGYnOfmUTQ=",
+  "Source": "ASPA002_2",
+  "BasePath": "_content/ASPA002_2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ASPA002_2\\wwwroot",
+      "Source": "ASPA002_2",
+      "ContentRoot": "D:\\curs_2\\study_4_sem\\ТПвИ\\lab\\lab02\\ASPA\\ASPA002_2\\wwwroot\\",
+      "BasePath": "_content/ASPA002_2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\curs_2\\study_4_sem\\ТПвИ\\lab\\lab02\\ASPA\\ASPA002_2\\wwwroot\\css\\index.css",
+      "SourceId": "ASPA002_2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\curs_2\\study_4_sem\\ТПвИ\\lab\\lab02\\ASPA\\ASPA002_2\\wwwroot\\",
+      "BasePath": "_content/ASPA002_2",
+      "RelativePath": "css/index.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\index.css"
+    },
+    {
+      "Identity": "D:\\curs_2\\study_4_sem\\ТПвИ\\lab\\lab02\\ASPA\\ASPA002_2\\wwwroot\\js\\Cals.js",
+      "SourceId": "ASPA002_2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\curs_2\\study_4_sem\\ТПвИ\\lab\\lab02\\ASPA\\ASPA002_2\\wwwroot\\",
+      "BasePath": "_content/ASPA002_2",
+      "RelativePath": "js/Cals.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Cals.js"
+    },
+    {
+      "Identity": "D:\\curs_2\\study_4_sem\\ТПвИ\\lab\\lab02\\ASPA\\ASPA002_2\\wwwroot\\Neumann.html",
+      "SourceId": "ASPA002_2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\curs_2\\study_4_sem\\ТПвИ\\lab\\lab02\\ASPA\\ASPA002_2\\wwwroot\\",
+      "BasePath": "_content/ASPA002_2",
+      "RelativePath": "Neumann.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Neumann.html"
+    }
+  ]
+}
