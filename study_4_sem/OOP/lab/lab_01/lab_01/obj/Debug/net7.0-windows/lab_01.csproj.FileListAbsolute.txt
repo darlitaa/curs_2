@@ -1,0 +1,16 @@
+D:\curs_2\study_4_sem\OOP\lab\lab_01\lab_01\bin\Debug\net7.0-windows\lab_01.exe
+D:\curs_2\study_4_sem\OOP\lab\lab_01\lab_01\bin\Debug\net7.0-windows\lab_01.deps.json
+D:\curs_2\study_4_sem\OOP\lab\lab_01\lab_01\bin\Debug\net7.0-windows\lab_01.runtimeconfig.json
+D:\curs_2\study_4_sem\OOP\lab\lab_01\lab_01\bin\Debug\net7.0-windows\lab_01.dll
+D:\curs_2\study_4_sem\OOP\lab\lab_01\lab_01\bin\Debug\net7.0-windows\lab_01.pdb
+D:\curs_2\study_4_sem\OOP\lab\lab_01\lab_01\obj\Debug\net7.0-windows\TextCalculator.Form1.resources
+D:\curs_2\study_4_sem\OOP\lab\lab_01\lab_01\obj\Debug\net7.0-windows\lab_01.csproj.GenerateResource.cache
+D:\curs_2\study_4_sem\OOP\lab\lab_01\lab_01\obj\Debug\net7.0-windows\lab_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\curs_2\study_4_sem\OOP\lab\lab_01\lab_01\obj\Debug\net7.0-windows\lab_01.AssemblyInfoInputs.cache
+D:\curs_2\study_4_sem\OOP\lab\lab_01\lab_01\obj\Debug\net7.0-windows\lab_01.AssemblyInfo.cs
+D:\curs_2\study_4_sem\OOP\lab\lab_01\lab_01\obj\Debug\net7.0-windows\lab_01.csproj.CoreCompileInputs.cache
+D:\curs_2\study_4_sem\OOP\lab\lab_01\lab_01\obj\Debug\net7.0-windows\lab_01.dll
+D:\curs_2\study_4_sem\OOP\lab\lab_01\lab_01\obj\Debug\net7.0-windows\refint\lab_01.dll
+D:\curs_2\study_4_sem\OOP\lab\lab_01\lab_01\obj\Debug\net7.0-windows\lab_01.pdb
+D:\curs_2\study_4_sem\OOP\lab\lab_01\lab_01\obj\Debug\net7.0-windows\lab_01.genruntimeconfig.cache
+D:\curs_2\study_4_sem\OOP\lab\lab_01\lab_01\obj\Debug\net7.0-windows\ref\lab_01.dll
