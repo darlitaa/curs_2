@@ -1,0 +1,35 @@
+﻿Сборка начата 05.03.2025 19:10:13.
+Уровень детализации журнала: Normal.     1>Проект "D:\curs_2\study_4_sem\MP\lab\lab_4\lab_4\lab_4.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "D:\curs_2\study_4_sem\MP\lab\lab_4\Debug\".
+         Создание каталога "Debug\lab_4.tlog\".
+       InitializeBuildStatus:
+         Создание "Debug\lab_4.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\lab_4.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt lab_4.cpp Levenstein.cpp
+         lab_4.cpp
+     1>D:\curs_2\study_4_sem\MP\lab\lab_4\lab_4\lab_4.cpp(27,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>D:\curs_2\study_4_sem\MP\lab\lab_4\lab_4\lab_4.cpp(41,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+         Levenstein.cpp
+         Создание кода...
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\curs_2\study_4_sem\MP\lab\lab_4\Debug\lab_4.exe" /INCREMENTAL /ILK:"Debug\lab_4.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\curs_2\study_4_sem\MP\lab\lab_4\Debug\lab_4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\curs_2\study_4_sem\MP\lab\lab_4\Debug\lab_4.lib" /MACHINE:X86 Debug\lab_4.obj
+         Debug\Levenstein.obj
+         lab_4.vcxproj -> D:\curs_2\study_4_sem\MP\lab\lab_4\Debug\lab_4.exe
+       FinalizeBuildStatus:
+         Файл "Debug\lab_4.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\lab_4.tlog\lab_4.lastbuildstate".
+     1>Сборка проекта "D:\curs_2\study_4_sem\MP\lab\lab_4\lab_4\lab_4.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\curs_2\study_4_sem\MP\lab\lab_4\lab_4\lab_4.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\curs_2\study_4_sem\MP\lab\lab_4\lab_4\lab_4.cpp(27,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+         D:\curs_2\study_4_sem\MP\lab\lab_4\lab_4\lab_4.cpp(41,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:03.91
