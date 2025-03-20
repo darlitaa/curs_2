@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+  color: rgb(109, 178, 201);
+}
+
+.counter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 2px solid rgb(109, 178, 201);
+  border-radius: 10px;
+  padding: 20px;
+}
+
+button {
+  background-color: transparent;
+  color: rgb(109, 178, 201);
+  border: 2px solid rgb(109, 178, 201);
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin: 10px;
+}
