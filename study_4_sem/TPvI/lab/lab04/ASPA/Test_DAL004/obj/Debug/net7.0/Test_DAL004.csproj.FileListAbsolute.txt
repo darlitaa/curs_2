@@ -1,0 +1,57 @@
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04\ASPA\Test_DAL004\bin\Debug\net7.0\Test_DAL004.exe
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04\ASPA\Test_DAL004\bin\Debug\net7.0\Test_DAL004.deps.json
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04\ASPA\Test_DAL004\bin\Debug\net7.0\Test_DAL004.runtimeconfig.json
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04\ASPA\Test_DAL004\bin\Debug\net7.0\Test_DAL004.dll
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04\ASPA\Test_DAL004\bin\Debug\net7.0\Test_DAL004.pdb
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04\ASPA\Test_DAL004\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04\ASPA\Test_DAL004\bin\Debug\net7.0\DAL004.dll
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04\ASPA\Test_DAL004\bin\Debug\net7.0\DAL004.pdb
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04\ASPA\Test_DAL004\obj\Debug\net7.0\Test_DAL004.csproj.AssemblyReference.cache
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04\ASPA\Test_DAL004\obj\Debug\net7.0\Test_DAL004.GeneratedMSBuildEditorConfig.editorconfig
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04\ASPA\Test_DAL004\obj\Debug\net7.0\Test_DAL004.AssemblyInfoInputs.cache
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04\ASPA\Test_DAL004\obj\Debug\net7.0\Test_DAL004.AssemblyInfo.cs
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04\ASPA\Test_DAL004\obj\Debug\net7.0\Test_DAL004.csproj.CoreCompileInputs.cache
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04\ASPA\Test_DAL004\obj\Debug\net7.0\Test_DAL004.csproj.CopyComplete
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04\ASPA\Test_DAL004\obj\Debug\net7.0\Test_DAL004.dll
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04\ASPA\Test_DAL004\obj\Debug\net7.0\refint\Test_DAL004.dll
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04\ASPA\Test_DAL004\obj\Debug\net7.0\Test_DAL004.pdb
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04\ASPA\Test_DAL004\obj\Debug\net7.0\Test_DAL004.genruntimeconfig.cache
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04\ASPA\Test_DAL004\obj\Debug\net7.0\ref\Test_DAL004.dll
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04 — копия\ASPA\Test_DAL004\bin\Debug\net7.0\Test_DAL004.exe
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04 — копия\ASPA\Test_DAL004\bin\Debug\net7.0\Test_DAL004.deps.json
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04 — копия\ASPA\Test_DAL004\bin\Debug\net7.0\Test_DAL004.runtimeconfig.json
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04 — копия\ASPA\Test_DAL004\bin\Debug\net7.0\Test_DAL004.dll
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04 — копия\ASPA\Test_DAL004\bin\Debug\net7.0\Test_DAL004.pdb
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04 — копия\ASPA\Test_DAL004\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04 — копия\ASPA\Test_DAL004\bin\Debug\net7.0\DAL004.dll
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04 — копия\ASPA\Test_DAL004\bin\Debug\net7.0\DAL004.pdb
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04 — копия\ASPA\Test_DAL004\obj\Debug\net7.0\Test_DAL004.csproj.AssemblyReference.cache
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04 — копия\ASPA\Test_DAL004\obj\Debug\net7.0\Test_DAL004.GeneratedMSBuildEditorConfig.editorconfig
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04 — копия\ASPA\Test_DAL004\obj\Debug\net7.0\Test_DAL004.AssemblyInfoInputs.cache
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04 — копия\ASPA\Test_DAL004\obj\Debug\net7.0\Test_DAL004.AssemblyInfo.cs
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04 — копия\ASPA\Test_DAL004\obj\Debug\net7.0\Test_DAL004.csproj.CoreCompileInputs.cache
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04 — копия\ASPA\Test_DAL004\obj\Debug\net7.0\Test_DAL004.csproj.CopyComplete
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04 — копия\ASPA\Test_DAL004\obj\Debug\net7.0\Test_DAL004.dll
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04 — копия\ASPA\Test_DAL004\obj\Debug\net7.0\refint\Test_DAL004.dll
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04 — копия\ASPA\Test_DAL004\obj\Debug\net7.0\Test_DAL004.pdb
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04 — копия\ASPA\Test_DAL004\obj\Debug\net7.0\Test_DAL004.genruntimeconfig.cache
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04 — копия\ASPA\Test_DAL004\obj\Debug\net7.0\ref\Test_DAL004.dll
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04копия\ASPA\Test_DAL004\bin\Debug\net7.0\Test_DAL004.exe
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04копия\ASPA\Test_DAL004\bin\Debug\net7.0\Test_DAL004.deps.json
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04копия\ASPA\Test_DAL004\bin\Debug\net7.0\Test_DAL004.runtimeconfig.json
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04копия\ASPA\Test_DAL004\bin\Debug\net7.0\Test_DAL004.dll
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04копия\ASPA\Test_DAL004\bin\Debug\net7.0\Test_DAL004.pdb
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04копия\ASPA\Test_DAL004\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04копия\ASPA\Test_DAL004\bin\Debug\net7.0\DAL004.dll
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04копия\ASPA\Test_DAL004\bin\Debug\net7.0\DAL004.pdb
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04копия\ASPA\Test_DAL004\obj\Debug\net7.0\Test_DAL004.csproj.AssemblyReference.cache
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04копия\ASPA\Test_DAL004\obj\Debug\net7.0\Test_DAL004.GeneratedMSBuildEditorConfig.editorconfig
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04копия\ASPA\Test_DAL004\obj\Debug\net7.0\Test_DAL004.AssemblyInfoInputs.cache
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04копия\ASPA\Test_DAL004\obj\Debug\net7.0\Test_DAL004.AssemblyInfo.cs
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04копия\ASPA\Test_DAL004\obj\Debug\net7.0\Test_DAL004.csproj.CoreCompileInputs.cache
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04копия\ASPA\Test_DAL004\obj\Debug\net7.0\Test_DAL004.csproj.CopyComplete
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04копия\ASPA\Test_DAL004\obj\Debug\net7.0\Test_DAL004.dll
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04копия\ASPA\Test_DAL004\obj\Debug\net7.0\refint\Test_DAL004.dll
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04копия\ASPA\Test_DAL004\obj\Debug\net7.0\Test_DAL004.pdb
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04копия\ASPA\Test_DAL004\obj\Debug\net7.0\Test_DAL004.genruntimeconfig.cache
+D:\curs_2\study_4_sem\ТПвИ\lab\lab04копия\ASPA\Test_DAL004\obj\Debug\net7.0\ref\Test_DAL004.dll

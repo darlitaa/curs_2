@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8e1PYUfjtrkmOtF4SAjoXKmJbxa7dV7BPZ6AThUUTPaHip9gLUN3YFVvVNwafY+HuJqgH8IA6x7EnAO2AiVHdw==",
+  "success": true,
+  "projectFilePath": "D:\\curs_2\\study_4_sem\\ТПвИ\\lab\\lab04\\ASPA\\Test_DAL004\\Test_DAL004.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dashka Poop\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
