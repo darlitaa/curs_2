@@ -1,0 +1,26 @@
+D:\Лабораторные\Даша\Lab02\bin\Debug\Lab02.exe.config
+D:\Лабораторные\Даша\Lab02\bin\Debug\Lab02.exe
+D:\Лабораторные\Даша\Lab02\bin\Debug\Lab02.pdb
+D:\Лабораторные\Даша\Lab02\bin\Debug\Newtonsoft.Json.dll
+D:\Лабораторные\Даша\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
+D:\Лабораторные\Даша\Lab02\obj\Debug\Lab02.Form2.resources
+D:\Лабораторные\Даша\Lab02\obj\Debug\Lab02.Properties.Resources.resources
+D:\Лабораторные\Даша\Lab02\obj\Debug\Lab02.csproj.GenerateResource.cache
+D:\Лабораторные\Даша\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+D:\Лабораторные\Даша\Lab02\obj\Debug\Lab02.csproj.Up2Date
+D:\Лабораторные\Даша\Lab02\obj\Debug\Lab02.exe
+D:\Лабораторные\Даша\Lab02\obj\Debug\Lab02.pdb
+d:\Лабораторные\4 семестр\ООП 4 сем\Lab02\bin\Debug\Lab02.exe.config
+d:\Лабораторные\4 семестр\ООП 4 сем\Lab02\bin\Debug\Lab02.exe
+d:\Лабораторные\4 семестр\ООП 4 сем\Lab02\bin\Debug\Lab02.pdb
+d:\Лабораторные\4 семестр\ООП 4 сем\Lab02\bin\Debug\Newtonsoft.Json.dll
+d:\Лабораторные\4 семестр\ООП 4 сем\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
+d:\Лабораторные\4 семестр\ООП 4 сем\Lab02\obj\Debug\Lab02.Form2.resources
+d:\Лабораторные\4 семестр\ООП 4 сем\Lab02\obj\Debug\Lab02.Properties.Resources.resources
+d:\Лабораторные\4 семестр\ООП 4 сем\Lab02\obj\Debug\Lab02.csproj.GenerateResource.cache
+d:\Лабораторные\4 семестр\ООП 4 сем\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+D:\Лабораторные\4 семестр\ООП 4 сем\Lab02\obj\Debug\Lab02.csproj.Up2Date
+d:\Лабораторные\4 семестр\ООП 4 сем\Lab02\obj\Debug\Lab02.exe
+d:\Лабораторные\4 семестр\ООП 4 сем\Lab02\obj\Debug\Lab02.pdb
+D:\Лабораторные\4 семестр\ООП 4 сем\Lab02\obj\Debug\Lab02.FormForSearch.resources
+D:\Лабораторные\4 семестр\ООП 4 сем\Lab02\obj\Debug\Lab02.SortForm.resources

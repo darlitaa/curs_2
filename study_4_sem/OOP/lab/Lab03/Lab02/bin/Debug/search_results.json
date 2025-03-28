@@ -1,0 +1,209 @@
+[
+  {
+    "FullName": "авави",
+    "Age": 18,
+    "Specialization": "Менеджмент",
+    "BirthDate": "2007-03-24T22:59:06.7924384+03:00",
+    "Course": 6,
+    "Group": "авпа",
+    "AverageGrade": 1.0,
+    "Gender": "Мужской",
+    "Address": {
+      "City": "иоао",
+      "PostalCode": "213213",
+      "Street": "павопа",
+      "House": "23",
+      "Apartment": "94"
+    },
+    "WorkPlace": {
+      "Company": "вапо",
+      "Position": "плал",
+      "Experience": 2,
+      "Salary": 2131.0
+    }
+  },
+  {
+    "FullName": "авави",
+    "Age": 18,
+    "Specialization": "Дизайн",
+    "BirthDate": "2007-03-24T23:01:04.8890345+03:00",
+    "Course": 3,
+    "Group": "иапи",
+    "AverageGrade": 2.1,
+    "Gender": "Мужской",
+    "Address": {
+      "City": "оиаоли",
+      "PostalCode": "123213",
+      "Street": "лплав",
+      "House": "213",
+      "Apartment": "123"
+    },
+    "WorkPlace": {
+      "Company": "илоолп",
+      "Position": "2аавп",
+      "Experience": 1,
+      "Salary": 2132.0
+    }
+  },
+  {
+    "FullName": "апиапиа",
+    "Age": 18,
+    "Specialization": "Менеджмент",
+    "BirthDate": "2007-03-07T13:47:59",
+    "Course": 2,
+    "Group": "dfgfd",
+    "AverageGrade": 7.4,
+    "Gender": "Мужской",
+    "Address": {
+      "City": "frgrre",
+      "PostalCode": "131232",
+      "Street": "fdgfg",
+      "House": "123",
+      "Apartment": "10"
+    },
+    "WorkPlace": {
+      "Company": "fbfb",
+      "Position": "fdfd",
+      "Experience": 3,
+      "Salary": 21312.0
+    }
+  },
+  {
+    "FullName": "Арбуз",
+    "Age": 18,
+    "Specialization": "Программирование",
+    "BirthDate": "2007-03-24T21:58:13.3520669+03:00",
+    "Course": 2,
+    "Group": "вламалв",
+    "AverageGrade": 1.2,
+    "Gender": "Мужской",
+    "Address": {
+      "City": "fdkgfdk",
+      "PostalCode": "232123",
+      "Street": "ljkfdjk",
+      "House": "123",
+      "Apartment": "232"
+    },
+    "WorkPlace": {
+      "Company": "dfkmvdf",
+      "Position": "dfrkgdk",
+      "Experience": 3,
+      "Salary": 12312.0
+    }
+  },
+  {
+    "FullName": "ваави",
+    "Age": 18,
+    "Specialization": "Маркетинг",
+    "BirthDate": "2007-03-18T13:32:54.8145684+03:00",
+    "Course": 4,
+    "Group": "авпа",
+    "AverageGrade": 9.3,
+    "Gender": "Женский",
+    "Address": {
+      "City": "dgfdf",
+      "PostalCode": "123123",
+      "Street": "dffdbf",
+      "House": "123",
+      "Apartment": "3"
+    },
+    "WorkPlace": {
+      "Company": "bfdb",
+      "Position": "dfgfd",
+      "Experience": 4,
+      "Salary": 1231.0
+    }
+  },
+  {
+    "FullName": "иавл",
+    "Age": 18,
+    "Specialization": "Программирование",
+    "BirthDate": "2007-03-25T00:07:19.555867+03:00",
+    "Course": 2,
+    "Group": "333",
+    "AverageGrade": 1.5,
+    "Gender": "Мужской",
+    "Address": {
+      "City": "ипа",
+      "PostalCode": "123456",
+      "Street": "алп",
+      "House": "23",
+      "Apartment": "3"
+    },
+    "WorkPlace": {
+      "Company": "илпа",
+      "Position": "плиалп",
+      "Experience": 2,
+      "Salary": 232.0
+    }
+  },
+  {
+    "FullName": "лдидлва",
+    "Age": 18,
+    "Specialization": "Программирование",
+    "BirthDate": "2007-03-23T23:11:53.0707257+03:00",
+    "Course": 3,
+    "Group": "4fd",
+    "AverageGrade": 1.3,
+    "Gender": "Мужской",
+    "Address": {
+      "City": "bvbfdb",
+      "PostalCode": "123231",
+      "Street": "dfkjdfjk",
+      "House": "123",
+      "Apartment": "23"
+    },
+    "WorkPlace": {
+      "Company": "bvkcjj",
+      "Position": "kjbjk",
+      "Experience": 4,
+      "Salary": 123.0
+    }
+  },
+  {
+    "FullName": "папапиап",
+    "Age": 20,
+    "Specialization": "Маркетинг",
+    "BirthDate": "2004-09-16T13:46:50",
+    "Course": 2,
+    "Group": "fgdf",
+    "AverageGrade": 7.2,
+    "Gender": "Мужской",
+    "Address": {
+      "City": "hgrhfg",
+      "PostalCode": "131231",
+      "Street": "dfdfvf",
+      "House": "123",
+      "Apartment": ""
+    },
+    "WorkPlace": {
+      "Company": "ddfv",
+      "Position": "fgfdg",
+      "Experience": 10,
+      "Salary": 1000000.0
+    }
+  },
+  {
+    "FullName": "уцу",
+    "Age": 18,
+    "Specialization": "Программирование",
+    "BirthDate": "2007-03-18T13:50:24.0987013+03:00",
+    "Course": 3,
+    "Group": "ваиваи",
+    "AverageGrade": 6.6,
+    "Gender": "Женский",
+    "Address": {
+      "City": "gfr",
+      "PostalCode": "123123",
+      "Street": "vfdvd",
+      "House": "123",
+      "Apartment": ""
+    },
+    "WorkPlace": {
+      "Company": "gfbd",
+      "Position": "dfbdfbb",
+      "Experience": 2,
+      "Salary": 10000.0
+    }
+  }
+]
