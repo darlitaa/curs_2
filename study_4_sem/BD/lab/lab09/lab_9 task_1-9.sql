@@ -45,13 +45,13 @@ BEGIN
 		@averageCapacity = (SELECT AVG(AUDITORIUM_CAPACITY) FROM AUDITORIUM)
 	SET @lessAverageAuditoriumCapacity = (SELECT COUNT(*) FROM AUDITORIUM
 				WHERE AUDITORIUM_CAPACITY < @averageCapacity );
-	SELECT @auditoriumAmount 'количество аудиторий',
-		@averageCapacity 'средняя вместимость', 
-		@lessAverageAuditoriumCapacity 'меньше средней ', 
-		@lessAverageAuditoriumCapacity /@auditoriumAmount*100 '% меньше средней'
+	SELECT @auditoriumAmount 'ГЄГ®Г«ГЁГ·ГҐГ±ГІГўГ® Г ГіГ¤ГЁГІГ®Г°ГЁГ©',
+		@averageCapacity 'Г±Г°ГҐГ¤Г­ГїГї ГўГ¬ГҐГ±ГІГЁГ¬Г®Г±ГІГј', 
+		@lessAverageAuditoriumCapacity 'Г¬ГҐГ­ГјГёГҐ Г±Г°ГҐГ¤Г­ГҐГ© ', 
+		@lessAverageAuditoriumCapacity /@auditoriumAmount*100 '% Г¬ГҐГ­ГјГёГҐ Г±Г°ГҐГ¤Г­ГҐГ©'
 END 
 ELSE
-	PRINT 'Общая вместимость аудитории: ' + @commonCaracity;
+	PRINT 'ГЋГЎГ№Г Гї ГўГ¬ГҐГ±ГІГЁГ¬Г®Г±ГІГј Г ГіГ¤ГЁГІГ®Г°ГЁГЁ: ' + @commonCaracity;
 
 
 --TASK3
@@ -79,13 +79,20 @@ PRINT 'z = ' + CAST(@z AS VARCHAR);
 
 
 --2
-DECLARE @fullName NVARCHAR(100) = 'Литвинчук Дарья Валерьевна ',
-		@shortName NVARCHAR(40)
-SET @shortName = SUBSTRING(@fullName, 1, CHARINDEX(' ', @fullName)) + 
-				SUBSTRING(SUBSTRING(@fullName, CHARINDEX(' ', @fullName) + 1, LEN(@fullName)), 1, 1) + '. ' +
-				SUBSTRING(SUBSTRING(@fullName, CHARINDEX(' ', @fullName, CHARINDEX(' ', @fullName) + 1) + 1, LEN(@fullName)), 1, 1) + '. '
-PRINT 'Полное ФИО: ' + @fullName;
-PRINT 'Сокращенное ФИО: ' + @shortName;
+DECLARE @fullName NVARCHAR(100) = 'Р›РёС‚РІРёРЅС‡СѓРє Р”Р°СЂСЊСЏ Р’Р°Р»РµСЂСЊРµРІРЅР°',
+        @shortName NVARCHAR(40),
+        @firstSpace INT,
+        @secondSpace INT;
+
+SET @firstSpace = CHARINDEX(' ', @fullName);
+SET @secondSpace = CHARINDEX(' ', @fullName, @firstSpace + 1);
+
+SET @shortName = SUBSTRING(@fullName, 1, @firstSpace) + 
+                 SUBSTRING(@fullName, @firstSpace + 1, 1) + '. ' +
+                 SUBSTRING(@fullName, @secondSpace + 1, 1) + '. ';
+
+PRINT 'РџРѕР»РЅРѕРµ Р¤РРћ: ' + @fullName;
+PRINT 'РЎРѕРєСЂР°С‰РµРЅРЅРѕРµ Р¤РРћ: ' + @shortName;
 
 
 --3
@@ -99,36 +106,36 @@ SELECT S.NAME, S.BDAY, DATEDIFF(YEAR, S.BDAY, @NextMonth) AS YEARS
 SELECT S.IDGROUP, P.SUBJECT, P.PDATE, DATENAME(WEEKDAY, P.PDATE) AS [WEEKDAY]
 	FROM PROGRESS AS P INNER JOIN STUDENT AS S ON P.IDSTUDENT = S.IDSTUDENT
 	GROUP BY S.IDGROUP, P.SUBJECT, P.PDATE
-	HAVING P.SUBJECT = 'БД';
+	HAVING P.SUBJECT = 'ГЃГ„';
 
 
 --TASK5
 DECLARE @avarageNote REAL = (SELECT CAST(AVG(P.NOTE) AS REAL) FROM PROGRESS AS P)
 IF @avarageNote >= 8
-	PRINT 'студенты отлчино учатся, имеют среднюю оценку ' + CAST(@avarageNote AS VARCHAR)
+	PRINT 'Г±ГІГіГ¤ГҐГ­ГІГ» Г®ГІГ«Г·ГЁГ­Г® ГіГ·Г ГІГ±Гї, ГЁГ¬ГҐГѕГІ Г±Г°ГҐГ¤Г­ГѕГѕ Г®Г¶ГҐГ­ГЄГі ' + CAST(@avarageNote AS VARCHAR)
 ELSE IF @avarageNote < 8 AND @avarageNote >= 6
-	PRINT 'студенты хорошо учатся, имеют среднюю оценку ' + CAST(@avarageNote AS VARCHAR)
+	PRINT 'Г±ГІГіГ¤ГҐГ­ГІГ» ГµГ®Г°Г®ГёГ® ГіГ·Г ГІГ±Гї, ГЁГ¬ГҐГѕГІ Г±Г°ГҐГ¤Г­ГѕГѕ Г®Г¶ГҐГ­ГЄГі ' + CAST(@avarageNote AS VARCHAR)
 ELSE 
-	PRINT 'студенты плохо учатся, имеют среднюю оценку ' + CAST(@avarageNote AS VARCHAR)
+	PRINT 'Г±ГІГіГ¤ГҐГ­ГІГ» ГЇГ«Г®ГµГ® ГіГ·Г ГІГ±Гї, ГЁГ¬ГҐГѕГІ Г±Г°ГҐГ¤Г­ГѕГѕ Г®Г¶ГҐГ­ГЄГі ' + CAST(@avarageNote AS VARCHAR)
 
 
 --TASK6
 SELECT G.FACULTY, COUNT(P.NOTE) AS AMOUNT_STUDENT,
 	CASE 
-		WHEN P.NOTE BETWEEN 0 AND 4 THEN 'плохо'
-		WHEN P.NOTE BETWEEN 5 AND 7 THEN 'нормально'
-		WHEN P.NOTE BETWEEN 8 AND 10 THEN 'хорошо'
+		WHEN P.NOTE BETWEEN 0 AND 4 THEN 'ГЇГ«Г®ГµГ®'
+		WHEN P.NOTE BETWEEN 5 AND 7 THEN 'Г­Г®Г°Г¬Г Г«ГјГ­Г®'
+		WHEN P.NOTE BETWEEN 8 AND 10 THEN 'ГµГ®Г°Г®ГёГ®'
 	END AS INFORMATION
 		FROM PROGRESS AS P
 		INNER JOIN STUDENT AS S ON P.IDSTUDENT = S.IDSTUDENT
 		INNER JOIN GROUPS AS G ON S.IDGROUP = G.IDGROUP
 	GROUP BY G.FACULTY,
 		CASE 
-			WHEN P.NOTE BETWEEN 0 AND 4 THEN 'плохо'
-			WHEN P.NOTE BETWEEN 5 AND 7 THEN 'нормально'
-			WHEN P.NOTE BETWEEN 8 AND 10 THEN 'хорошо'
+			WHEN P.NOTE BETWEEN 0 AND 4 THEN 'ГЇГ«Г®ГµГ®'
+			WHEN P.NOTE BETWEEN 5 AND 7 THEN 'Г­Г®Г°Г¬Г Г«ГјГ­Г®'
+			WHEN P.NOTE BETWEEN 8 AND 10 THEN 'ГµГ®Г°Г®ГёГ®'
 		END
-	HAVING G.FACULTY = 'ХТиТ'
+	HAVING G.FACULTY = 'Г•Г’ГЁГ’'
 
 
 --TASK7
