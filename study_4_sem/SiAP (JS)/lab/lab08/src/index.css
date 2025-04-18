@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+  color: rgb(109, 178, 201);
+}
+
+button {
+  background-color: transparent;
+  color: rgb(109, 178, 201);
+  border: 2px solid rgb(109, 178, 201);
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin: 0 5px;
+}

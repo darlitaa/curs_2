@@ -1,0 +1,13 @@
+.counter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 2px solid rgb(109, 178, 201);
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+}
