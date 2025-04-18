@@ -1,0 +1,111 @@
+body{
+  background: rgb(131, 103, 69);
+}
+
+form{
+  background: linear-gradient(135deg, #ffe4bb, #9c7b49);
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  margin: auto;
+  margin-top: 7%;
+  font-size: 1.2em;
+  padding: 5px 5px 5px 20px;
+  border-radius: 25px;
+  box-shadow: 0 0 5px #fff, 0 0 5px #fff, 0 0 5px #fff, 0 0 5px #fff;
+}
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 24px;
+  color: #4b4134;
+}
+
+label {
+  font-size: 16px;
+  margin-bottom: 6px;
+}
+
+input {
+  font-size: 16px;
+  border-radius: 5px;
+  padding: 7px;
+}
+input.error {
+  border-color: #ff3860;
+}
+
+.error-input {
+  color: #ff3860;
+  font-size: 12px;
+  margin-top: 5px;
+}
+
+.error-message {
+  color: #ff3860;
+  font-size: 14px;
+  background-color: #ffeaea;
+  padding: 10px;
+  border-radius: 4px;
+  text-align: center;
+  margin-bottom: 16px;
+  
+}
+.success-message {
+  color: #00cb47;
+  background-color: #e2ffd9;
+  padding: 10px;
+  border-radius: 4px;
+  text-align: center;
+  margin-bottom: 16px;
+  font-size: 14px;
+}
+
+.submit-button {
+  border-radius: 5px;
+  padding: 12px;
+  background-color: #55471d;
+  color: #faefc9;
+  max-width: fit-content;
+  align-self: center;
+  margin: 10px 0px;
+  border: none;
+}
+.submit-button:hover {
+  background-color: #715f28;
+}
+
+.password-input-container {
+  position: relative;
+  display: flex;
+}
+.password-input-container input {
+  flex: 1;
+}
+
+.toggle-password {
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 100%;
+  padding: 0 10px;
+  background: none;
+  border: none;
+  font-size: 14px;
+}
+.toggle-password:hover {
+  color: #555;
+}
+
+.click {
+  color:black;
+  font-size: 16px;
+}
+.click:hover {
+  color:rgb(123, 87, 43);
+}
